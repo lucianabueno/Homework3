@@ -1,0 +1,25 @@
+{
+  "name": "hw3-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frontend.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianabueno/Homework3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianabueno/Homework3/issues"
+  },
+  "homepage": "https://github.com/lucianabueno/Homework3#readme"
+}
